@@ -1,0 +1,133 @@
+Centro de Costo;Nivel Jerarquico;N° Legajo;Apellido y Nombre;Salario
+Produccion;Operario;40;GALLO RENATO PEDRO;$ 1,330.00
+Jornalizados;Operario;46;CISNEROS LUIS ROBERTO;$ 1,747.35
+Produccion;Analista;47;GANA JORGE LUIS;$ 2,492.00
+Comercializacion;Jefe;63;PETRONE GERARDO OSVALDO;$ 1,548.00
+Produccion;Gerente;68;CASADO DANIEL;$ 6,238.00
+Produccion;Analista;82;DIAZ OSCAR ALBERTO;$ 2,242.00
+Produccion;Jefe;103;MARTIN ROLANDO;$ 3,511.00
+Produccion;Analista;126;CERRUDO ANTONIO NELSIDES;$ 2,193.00
+Laboratorio;Operario;135;DIAZ JUAN CARLOS;$ 1,704.00
+Produccion;Operario;141;CHINI CARLOS ALBERTO;$ 1,595.00
+Jornalizados;Operario;270;VILLEGAS JULIO CESAR;$ 1,783.58
+Produccion;Operario;291;FERRER MARTA NOEMI;$ 1,694.00
+Produccion;Jefe;293;BARAIBAR NORBERTO EDUARDO;$ 2,203.00
+Jornalizados;Operario;297;SOSA ANDRES ALBINO;$ 1,697.06
+Jornalizados;Operario;302;FERRERE ANTONIO DOMINGO;$ 1,697.06
+Finanzas;Gerente;305;ABENTIN JOAQUIN;$ 7,620.00
+Desarrollo;Gerente;310;DIAZ VICTOR BAUTISTA;$ 5,641.00
+Produccion;Analista;334;VERA ANIBAL JOSE;$ 1,894.00
+Laboratorio;Gerente;352;MARTINEZ OSCAR;$ 5,342.00
+Mantenimiento;Operario;353;SOSA NEMECIO MARTIN;$ 1,804.00
+Produccion;Analista;362;PAGOLA DANIEL ALFONSO;$ 2,193.00
+Jornalizados;Operario;375;FIORDOLIVA ROBERTO ORLANDO;$ 1,598.65
+Mantenimiento;Gerente;377;MARI RODOLFO;$ 4,770.00
+Jornalizados;Operario;384;BARRERA JUAN CARLOS;$ 1,598.65
+Campo;Operario;389;MACIEL AGUSTIN RODOLFO;$ 1,076.00
+Campo;Operario;421;CANONICA GUSTAVO ALBERTO;$ 1,315.00
+Mantenimiento;Operario;427;MONTON ANTONIO MARCELINO;$ 1,854.00
+Veterinaria;Analista;439;ROMANO GABRIELA VIVIANA;$ 2,546.00
+Comercializacion;Analista;449;DE JESUS MONICA;$ 2,126.00
+Mantenimiento;Operario;451;BENITEZ RAMON ROQUE;$ 1,774.00
+Comercializacion;Analista;464;MAGLIOCCA FRANCISCO ANTONIO;$ 1,763.00
+Campo;Operario;466;MARINI LEANDRO ALBERTO;$ 1,269.00
+Campo;Jefe;469;VASQUEZ VICTOR JUAN;$ 2,364.00
+Laboratorio;Analista;471;FLEMING HUGO LEONARDO;$ 2,561.00
+Jornalizados;Operario;489;DEBENEDETTO ROLANDO JAVIER;$ 1,476.29
+Veterinaria;Gerente;491;ABENTIN ALEJANDRO;$ 5,878.00
+Jornalizados;Operario;493;BENITEZ DIEGO CESAR MAXIMILIAN;$ 1,349.17
+Campo;Operario;503;AGUIRRE JUAN ANDRES;$ 1,206.00
+Campo;Operario;504;ECHEVERRIA IGNACIO MIGUEL;$ 1,076.00
+Campo;Operario;507;CESTONA LUIS FERNANDO;$ 1,210.00
+Jornalizados;Operario;508;PAZ VICTOR HUGO;$ 1,461.64
+Mantenimiento;Operario;513;SIMONETTI CARLOS DANIEL;$ 2,023.00
+Produccion;Operario;517;BALLE ALFREDO ARIEL;$ 2,093.00
+Finanzas;Jefe;519;SQUILLACIOTI JUAN PABLO;$ 2,751.00
+Administracion;Analista;530;BARAIBAR JUAN MIGUEL;$ 2,015.00
+Administracion;Jefe;533;LESCANO SERGIO ANDRES;$ 2,300.00
+Produccion;Operario;534;PAZ EDUARDO HECTOR;$ 1,340.00
+Mantenimiento;Operario;535;LUQUE WALTER RICARDO;$ 1,562.00
+Administracion;Analista;553;LA MOTTA SERGIO ARIEL;$ 1,744.00
+Jornalizados;Operario;558;CRESPI PABLO OSCAR;$ 1,296.50
+Mantenimiento;Operario;565;RACHIELE LUIS;$ 1,933.00
+Produccion;Jefe;569;BARRIONUEVO ALDO PEDRO;$ 3,850.00
+Laboratorio;Maestranza;570;CRISTALDO ESTELA ALICIA;$ 1,326.00
+Jornalizados;Operario;577;MORALES MARCOS MIGUEL;$ 1,196.51
+Jornalizados;Operario;578;CRISTALDO RAMON ANGEL;$ 1,296.50
+Jornalizados;Operario;579;FERRERE LUCAS HERNAN;$ 1,196.51
+Veterinaria;Operario;581;PAGOLA PEDRO IGNACIO;$ 1,634.00
+Administracion;Maestranza;582;SAYDE SUSANA AMELIA;$ 1,264.00
+Administracion;Jefe;583;MOTTOLA ALEJANDRA BEATRIZ;$ 2,522.50
+Campo;Operario;586;AGUIRRE RAUL ALBERTO;$ 1,088.00
+Laboratorio;Analista;587;MARTINEZ DIEGO OSVALDO;$ 2,392.00
+Laboratorio;Analista;588;GAILLARD GUSTAVO HORACIO GASTO;$ 2,392.00
+Jornalizados;Operario;589;SORIA JOSE MARIA;$ 1,309.37
+Finanzas;Gerente;590;GRAND JORGE MARIO;$ 5,400.00
+Produccion;Jefe;597;CEJAS CRISTIAN FEDERICO;$ 2,492.00
+Produccion;Operario;598;CONTINO ANGEL MARCELO;$ 1,196.00
+Produccion;Operario;600;FATTORINI ANGEL ERNESTO;$ 1,694.00
+Veterinaria;Gerente;601;VIDELA DORNA IGNACIO;$ 5,747.00
+Produccion;Operario;605;DIAZ HERNAN LEANDRO;$ 1,943.00
+Produccion;Operario;606;HOGAS CARLOS ANDRES;$ 1,565.00
+Mantenimiento;Operario;607;ARANCIVA ANTONIO DAVID;$ 1,266.00
+Produccion;Jefe;608;REINA FERNANDEZ GUSTAVO ROBERT;$ 2,292.00
+Campo;Operario;616;MARTINEZ JORGE SEBASTIAN;$ 1,146.00
+Veterinaria;Jefe;619;FENNEN MARIANA;$ 3,925.00
+Mantenimiento;Jefe;623;PAZ DANIEL HORACIO;$ 3,621.00
+Laboratorio;Analista;624;LAMBERTI NÉSTOR DANIEL;$ 2,063.00
+Jornalizados;Operario;626;POSE JUAN CARLOS;$ 1,258.29
+Mantenimiento;Operario;627;ROMERO RAMON IGNACIO;$ 1,744.00
+Laboratorio;Gerente;628;BOGGI CARMEN;$ 4,332.00
+Laboratorio;Operario;629;ROJAS PABLO ARIEL;$ 1,695.00
+Produccion;Operario;630;ESPINOSA DANIEL ALEJANDRO;$ 2,292.00
+Desarrollo;Jefe;631;VILLAR DANIEL MAURICE;$ 3,384.00
+Produccion;Operario;632;GOMEZ LUIS BELTRAN;$ 1,565.00
+Mantenimiento;Operario;634;GOMEZ CARLOS ALBERTO;$ 1,694.00
+Jornalizados;Operario;635;SCHIAVONI JUAN ANGEL;$ 1,245.82
+Mantenimiento;Operario;636;RIQUELME GUSTAVO MARTIN;$ 1,276.00
+Campo;Operario;638;PARADA JUAN ANTONIO;$ 1,076.00
+Veterinaria;Analista;639;TERRONI MARIA JULIETA;$ 2,063.00
+Campo;Operario;641;ENRIQUEZ NESTOR ANIBAL;$ 1,076.00
+Administracion;Analista;648;FERNANDEZ SIMON PEDRO;$ 1,445.00
+Veterinaria;Maestranza;650; PRADO SUSANA ;$ 321.84
+Veterinaria;Analista;653;LEBLIC ROBERTO DARIO;$ 3,793.00
+Produccion;Operario;657;FERNANDEZ CRISTIAN LEONARDO;$ 1,671.00
+Produccion;Operario;658;GOMEZ JUAN CARLOS;$ 1,296.00
+Veterinaria;Jefe;659;CUTAIA LUCAS ESTEBAN;$ 3,460.00
+Produccion;Operario;660;MANETTA ROLANDO CLAUDIO;$ 1,794.00
+Veterinaria;Analista;668;LOJO MARIA INES;$ 2,012.00
+Produccion;Operario;670;PALOMBA DANIEL HUMBERTO;$ 2,242.00
+Produccion;Operario;671;FEBBRILE MATIAS MIGUEL;$ 1,138.00
+Veterinaria;Analista;672;CASTAGNETO NICOLAS GUILLERMO;$ 4,598.00
+Jornalizados;Operario;675;VILLEGAS DIEGO;$ 1,149.98
+Mantenimiento;Operario;677;BACHMANN SEBASTIAN;$ 1,943.00
+Recursos Humanos;Gerente;679;RIVAS MARTIN;$ 2,929.00
+Campo;Jefe;681;ZUBIAURRE HERNAN;$ 2,892.00
+Veterinaria;Jefe;684;VIDAL SANTIAGO GABRIEL;$ 4,264.00
+Veterinaria;Operario;686;DIAZ JAVIER MAXIMILIANO;$ 1,096.00
+Laboratorio;Analista;687;ORTIZ LUIS MARIA;$ 1,985.00
+Produccion;Operario;689;SILVA WALTER GASTON;$ 1,138.00
+Produccion;Operario;690;GALEAZZI PABLO;$ 1,138.00
+Produccion;Operario;691;BOZZA EMILIO;$ 1,193.00
+Veterinaria;Analista;692; LOPEZ PABLO ;$ 3,964.00
+Campo;Operario;694;MUTTI DANIEL;$ 1,076.00
+Laboratorio;Analista;695;CORONEL CARMEN;$ 322.00
+Jornalizados;Operario;696;PAZ OMAR ;$ 1,138.50
+Produccion;Operario;698;KOHON GONZALO MISAEL;$ 1,844.00
+Jornalizados;Operario;701;CAMINOS SERGIO;$ 1,138.50
+Mantenimiento;Jefe;704;TIRAPEGUI RICARDO;$ 3,678.00
+Produccion;Operario;705;TORNELLO MARCOS;$ 1,193.00
+Laboratorio;Analista;706;GODOY MIGUEL ANGEL;$ 1,844.00
+Veterinaria;Jefe;710;BOTTINO ANDRES;$ 4,598.00
+Mantenimiento;Operario;711;MARTINEZ UBALDO;$ 1,595.00
+Produccion;Jefe;713;FERRETI PABLO;$ 3,966.00
+Laboratorio;Jefe;714;BERTOT MARIA LETICIA;$ 3,621.00
+Mantenimiento;Jefe;715;TRAPANI PABLO;$ 2,759.00
+Produccion;Operario;717;LAMBERTI DAN MICAEL;$ 1,138.00
+Laboratorio;Operario;719;PANKOW NAHUEL;$ 1,138.00
+Finanzas;Analista;729;POSE LEANDRO ;$ 1,445.00
+Veterinaria;Analista;731; DIAZ CUCULLU TOMAS ;$ 4,138.00
+Veterinaria;Analista;732; CARUSO LAURA ;$ 1,564.00
+Veterinaria;Analista;733; CANESSA ARTURO HECTOR ;$ 3,103.00
+Administracion;Gerente;734; SCARDINO MARTIN ROBERTO ;$ 5,747.00
+Laboratorio;Operario;736;OCAMPO WALTER VICTOR;$ 1,545.00
