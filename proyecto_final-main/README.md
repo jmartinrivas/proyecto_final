@@ -16,4 +16,4 @@ El programa recopilara los dato, luego consultará al usuario si desea ver la in
 - C) % de distribucion salarial según centros de costos
 - D) % de distribucion salarial según niveles jerarquicos 
 ## Flujo del programa
-![](Imagen%5CDiagrama%20de%20Flujo.png)
+![alt text](https://github.com/jmartinrivas/proyecto_final/blob/main/proyecto_final-main/Imagen/Diagrama%20de%20Flujo.png)
